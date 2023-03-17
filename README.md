@@ -29,3 +29,4 @@ O desafio consistiu em criar modelos e gráficos para resolver o problema de pre
 
 ## Video Explicativo
    - Coloque aqui o link para o seu video explicando como o projeto foi desenvolvido, quais as dificuldades encontradas e qual a solução adotada.
+   https://youtu.be/F_vkZDMy8Zg
